@@ -1,2 +1,0 @@
-# Calculater-
-Simple Calculator, 
